@@ -1,7 +1,7 @@
 # 🚀 Ultra-Fast LAN File & Folder Transfer
 
 ![Sender App](sender_app.png)
-![Receiver App](receiver_py.png)
+![Receiver App](receiver_app.png)
 
 ---
 
