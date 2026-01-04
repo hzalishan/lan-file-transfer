@@ -1,4 +1,9 @@
-# 🚀 Ultra-Fast LAN File & Folder Transfer (Python)
+# 🚀 Ultra-Fast LAN File & Folder Transfer
+
+![Sender App](sender_app.png)
+![Receiver App](receiver.py.png)
+
+---
 
 This project is a desktop-based file and folder sharing application built using **Python socket programming**.  
 It allows **direct high-speed transfer over local Wi-Fi** without using the internet.
