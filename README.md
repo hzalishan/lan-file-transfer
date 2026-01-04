@@ -59,8 +59,10 @@ python sender.py
 ```bash
 python receiver.py
 ```
-> Make sure both devices are connected to the same Wi-Fi or hotspot.
+Make sure both devices are connected to the same Wi-Fi or hotspot.
+
 ## 📂 Project Files
+
 sender.py – Sends files and folders
 receiver.py – Receives files and shows live transfer speed
 
