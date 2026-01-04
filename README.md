@@ -49,20 +49,22 @@ It allows **direct high-speed transfer over local Wi-Fi** without using the inte
 ```bash
 pip install customtkinter
 
-2. Run Sender
+```
+### 2. Run Sender
+```bash
 python sender.py
 
-3. Run Receiver
+```
+### 3. Run Receiver
+```bash
 python receiver.py
-
-Make sure both devices are connected to the same Wi-Fi or hotspot.
-
-📂 Project Files
+```
+> Make sure both devices are connected to the same Wi-Fi or hotspot.
+## 📂 Project Files
 sender.py – Sends files and folders
 receiver.py – Receives files and shows live transfer speed
 
-👨‍💻 Author
+## 👨‍💻 Author
 Ali Shan  
 BS Computer Science Student  
 AI & Data Science Enthusiast
-
